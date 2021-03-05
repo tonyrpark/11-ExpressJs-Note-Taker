@@ -1,9 +1,11 @@
 # Screenshots:
 
-1. Screenshot of Note Taking App
+1. GIF of Entire App
+   ![GIF of App](./Assets/noteAppGif.gif)
+2. Screenshot of Note Taking Welcome Screen
    ![Screenshot 1](./Assets/screenshot1.PNG)
-2. Screenshot of Note Taking App
-   ![Screenshot 1](./Assets/screenshot2.PNG)
+3. Screenshot of Note Taking App
+   ![Screenshot 2](./Assets/screenshot2.PNG)
 
 # Main files:
 
